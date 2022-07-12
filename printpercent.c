@@ -12,4 +12,4 @@ int printpercent(char *format, va_list pa)
 	(void)pa;
 	_putchar('%');
 	return (1);
-}i
+}
