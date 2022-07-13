@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * printocta - prints a hexadecimal
- * @format: format to print hexadecimal
- * @pa: list that contains the hexadecimal
+ * printocta - prints an octa_number
+ * @format: format to print octa_number
+ * @pa: list that contains the octa_number
  * Return: number.
  */
 int printocta(char *format, va_list pa)
